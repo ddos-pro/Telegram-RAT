@@ -10,6 +10,8 @@
 
 #
 
+* Created by https://github.com/Bainky/
+
 * Create a bot in a telegram via [@BotFather](https://t.me/BotFather), after which find its API Token
 
   <img src="https://i.imgur.com/3eWSJtZ.png">
